@@ -1,0 +1,28 @@
+#id {
+    bottom: 0px;
+    position: fixed;
+}
+.input {
+    width: 1300px;
+    border-radius: 54654px;
+    background-color: white;
+}
+#enviarmensaje {
+    width: 30px;
+    height: 30px;
+    border: 654;
+    background-color: white;
+}
+#mensaje2{
+    border-radius: 30px;
+}
+body{
+    background-color: white;
+}
+#hola{
+    background-color: white;
+}
+.di{
+    background-color: white;
+    border-radius: 645px;
+}
